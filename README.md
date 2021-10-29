@@ -6,7 +6,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently a software engineering student at Aptech Computer Education[RSTP](https://http://www.rstp.org.sz/) (Royal Science And Technology Park) \
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently a software engineering student at Aptech Computer Education [RSTP](https://http://www.rstp.org.sz/) (Royal Science And Technology Park) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently learning cloud computing (GCP).\
