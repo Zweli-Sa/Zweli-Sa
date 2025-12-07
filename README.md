@@ -7,11 +7,11 @@
 ### :space_invader: &nbsp;About Me
 
    :technologist: Currently a software engineering graduate from Aptech Computer Education, and a software developer at [RSTP](https://www.rstp.org.sz) (Royal Science And Technology Park)
-    :seedling: Love for science and innovation.
-    :heartbeat: Passionate with problem solving and daily routines automation.
-    :writing_hand: Currently learning Data Science and AI.
-    :hammer_and_wrench: Advanced Diploma in Software Engineering \ Google Cloud Platform (GCP) certificate of completion
-    :hammer_and_wrench: Coding for more than 4 years now and hoping for a good dose of experience in enterprise wide software development.
+   :seedling: Love for science and innovation.
+   :heartbeat: Passionate with problem solving and daily routines automation.
+   :writing_hand: Currently learning Data Science and AI.
+   :hammer_and_wrench: Advanced Diploma in Software Engineering \ Google Cloud Platform (GCP) certificate of completion
+   :hammer_and_wrench: Coding for more than 4 years now and hoping for a good dose of experience in enterprise wide software development.
 
 
 <p align="center">
