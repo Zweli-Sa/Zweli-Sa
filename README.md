@@ -7,6 +7,7 @@
 ### :space_invader: &nbsp;About Me
 
    :technologist: Currently a software engineering graduate from Aptech Computer Education, and a software developer at [RSTP](https://www.rstp.org.sz) (Royal Science And Technology Park)
+   
    :seedling: Love for science and innovation.
    
    :heartbeat: Passionate with problem solving and daily routines automation.
